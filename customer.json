@@ -1,0 +1,17 @@
+{
+	"name": "yarith", 
+	"age": 26,
+	"finances": {
+		"start capital": 1000,
+		"monthlyadd": 100
+	},
+	"pension": {
+		"age": 65,
+		"interest": {
+			"pessimistic": 2,
+			"average": 4,
+			"optimistic": 8
+		}
+
+	}
+}
